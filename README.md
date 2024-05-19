@@ -33,6 +33,8 @@ A recreation of the Tower of Hanoi game for research purposes.
 
 ## Demo
 
+- [Demonstration of application](https://youtu.be/sjjOYSsxOmU)
+
 ## Setup
 
 To get this application working locally, make sure to use a Linux distro. Simply follow these steps.
