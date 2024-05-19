@@ -5,6 +5,9 @@ A recreation of the Tower of Hanoi game for research purposes.
 ## Table of Contents
 
 - [Screenshots](#screenshots)
+  - [Four Disc Setup](#four-disc-setup)
+  - [Seven Disc Setup](#seven-disc-setup)
+  - [Background Color Change and Texture Toggled](#background-color-change-and-texture-toggled)
 - [Demo](#demo)
 - [Setup](#setup)
 - [Interface](#interface)
